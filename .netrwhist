@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/jgr78/PycharmProjects/ansible-oe/playbooks/rhel/MQ/tasks'
+let g:netrw_dirhist_2='/Users/jgr78/Dropbox/PyCharmProjects/AutoFS'
+let g:netrw_dirhist_3='/Users/jgr78/test'
+let g:netrw_dirhist_4='/Users/jgr78/PycharmProjects/AutoFS'
+let g:netrw_dirhist_5='/Users/jgr78/notes/ARIBA_PROD'
+let g:netrw_dirhist_6='/Users/jgr78/minishift'
+let g:netrw_dirhist_7='/Users/jgr78/test/ansible'
+let g:netrw_dirhist_8='/Users/jgr78/git/bskyb/oe-galaxy/deploy-infoscale/tasks'
+let g:netrw_dirhist_9='/Users/jgr78/git/bskyb/playbooks/create-awx-config/vars'
